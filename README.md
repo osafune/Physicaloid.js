@@ -8,8 +8,8 @@ Google Chrome Package Apps用のPhysicaloid JavaScriptライブラリです。
 利用環境
 ========
 
-Windows/Linux/MacOS上のGoogle Chromeで動作します。
-※Android Chromeでは動作しません。
+Windows/Linux/MacOS上のGoogle Chrome 32以下で動作します。
+*※最新のChrome 33では動作しません。*
 
 
 サンプルの使い方
